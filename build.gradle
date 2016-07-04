@@ -1,7 +1,7 @@
 apply plugin: 'java'
 apply plugin: 'eclipse'
 apply plugin: 'maven'
-remove it	
+remove it quickly
 sourceCompatibility = 1.7
 version = '0.1'
 ext.hadoopVersion = '2.6.0'
